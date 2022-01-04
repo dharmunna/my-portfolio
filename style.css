@@ -59,3 +59,17 @@ h3{
     box-shadow: 10px 10px 10px rgb(105, 88, 88);
     
 }
+#beginner{
+    border-left: 5px solid;
+    border-image: liner-greadient(blue, red);
+    border-image-slice: 1;
+}
+#programmer{
+    border-left: 5px solid;
+    border-image: liner-greadient(rgb(252, 5, 17), rgb(7, 160, 45));
+    border-image-slice: 1;
+}
+footer p{
+text-align:center;
+font-size: medium;
+}
